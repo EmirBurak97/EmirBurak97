@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Emir Burak
+- 👀 I’m interested in Music, Coding and Computer Games
+- 🌱 I’m mostly learning C# for now but I'm interested in Web programming like JavaScript, Css, PHP at the same time.
